@@ -10,6 +10,10 @@
  <a href="#user-content--licença">Licença</a>
 </p>
 
+<p align="center">
+  <img alt="Portfolio API" src=".github/preview-swagger.png" width="100%">
+</p>
+
 
 ## 💻 Sobre o projeto ##
 

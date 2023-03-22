@@ -11,9 +11,10 @@
 </p>
 
 
-## 💻 Sobre o projeto
+## 💻 Sobre o projeto ##
 
 O Portfolio .NET Minimal APIs trata-se de uma API para receber contatos através de um formulário dentro do site.
+
 ---
 
 ## ⚙️ Funcionalidades

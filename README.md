@@ -23,10 +23,10 @@ O Portfolio .NET Minimal APIs trata-se de uma API para receber contatos através
 
 ## ⚙️ Funcionalidades
 
-- [x] Registra nome de possíveis contatos / leads.
+- [x] Registra nome do contato.
 - [x] Registra e-mail para um possível retorno.
-- [x] Registra a mensagem digitada pelo contato / lead.
-- [x] Cadastro e alteração de funcionários.
+- [x] Registra a mensagem digitada pelo contato.
+- [x] Registra a data e a hora do contato.
 ---
 
 ## 🛠 Tecnologias

@@ -24,8 +24,6 @@
 - [x] Cadastro e alteração de funcionários.
 ---
 
----
-
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:

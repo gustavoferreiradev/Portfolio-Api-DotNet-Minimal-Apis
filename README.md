@@ -39,6 +39,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[ASP.NET Core](https://learn.microsoft.com/aspnet/core/?view=aspnetcore-7.0)**
 -   **[Minimal APIs](https://www.microsoft.com/sql-server/sql-server-2022)**
 -   **[SQL Server](https://www.microsoft.com/sql-server/sql-server-2022)**
+-   **[Azure Web App](https://azure.microsoft.com/products/app-service/web)** 
+-   **[Azure SQL](https://azure.microsoft.com/products/azure-sql/database)** 
+
 
 
 #### **Utilitários**

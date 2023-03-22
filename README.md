@@ -24,7 +24,6 @@
 - [x] Cadastro e alteração de funcionários.
 ---
 
-```
 ---
 
 ## 🛠 Tecnologias
